@@ -1,0 +1,711 @@
+{
+    "headerData":[
+        {
+            "title":"Total Outlets ",
+            "color":"blue",
+            "desc":"Target is 200",
+            "amount":"160",
+            "total":"200",
+            "isamount":false,
+            "year":2024
+        },
+        {
+            "title":"Total Revenue",
+            "color":"green",
+            "desc":"Total Revenue Generated",
+            "amount":"5000",
+            "total":"7000",
+            "isamount":true,
+            "year":2024
+
+
+        },
+        {
+            "title":"Total Verified outlets",
+            "color":"yellow",
+            "desc":"Verified Outlets",
+            "amount":"160",
+            "total":"200",
+            "isamount":false,
+            "year":2024
+
+        },
+        {
+            "title":"Order Completed",
+            "color":"red",
+            "desc":"Total Completed Order",
+            "amount":"2000",
+            "total":"2500",
+            "isamount":false,
+            "year":2024
+
+        },
+        {
+            "title":"Total Outlets ",
+            "color":"blue",
+            "desc":"Target is 200",
+            "amount":"130",
+            "total":"200",
+            "isamount":false,
+            "year":2023
+        },
+        {
+            "title":"Total Revenue",
+            "color":"green",
+            "desc":"Total Revenue Generated",
+            "amount":"4000",
+            "total":"7000",
+            "isamount":true,
+            "year":2023
+
+        },
+        {
+            "title":"Total Verified outlets",
+            "color":"yellow",
+            "desc":"Verified Outlets",
+            "amount":"180",
+            "total":"200",
+            "isamount":false,
+            "year":2023
+
+        },
+        {
+            "title":"Order Completed",
+            "color":"red",
+            "desc":"Total Completed Order",
+            "amount":"1800",
+            "total":"2500",
+            "isamount":false,
+            "year":2023
+
+        },
+        {
+            "title":"Total Outlets ",
+            "color":"blue",
+            "desc":"Target is 200",
+            "amount":"190",
+            "total":"200",
+            "isamount":false,
+            "year":2022
+        },
+        {
+            "title":"Total Revenue",
+            "color":"green",
+            "desc":"Total Revenue Generated",
+            "amount":"3500",
+            "total":"7000",
+            "isamount":true,
+            "year":2022
+
+        },
+        {
+            "title":"Total Verified outlets",
+            "color":"yellow",
+            "desc":"Verified Outlets",
+            "amount":"120",
+            "total":"200",
+            "isamount":false,
+            "year":2022
+
+        },
+        {
+            "title":"Order Completed",
+            "color":"red",
+            "desc":"Total Completed Order",
+            "amount":"1000",
+            "total":"2500",
+            "isamount":false,
+            "year":2022
+
+        },
+        {
+            "title":"Total Outlets ",
+            "color":"blue",
+            "desc":"Target is 200",
+            "amount":"110",
+            "total":"200",
+            "isamount":false,
+            "year":2021
+        },
+        {
+            "title":"Total Revenue",
+            "color":"green",
+            "desc":"Total Revenue Generated",
+            "amount":"4000",
+            "total":"7000",
+            "isamount":true,
+            "year":2021
+
+        },
+        {
+            "title":"Total Verified outlets",
+            "color":"yellow",
+            "desc":"Verified Outlets",
+            "amount":"180",
+            "total":"200",
+            "isamount":false,
+            "year":2021
+
+        },
+        {
+            "title":"Order Completed",
+            "color":"red",
+            "desc":"Total Completed Order",
+            "amount":"2000",
+            "total":"2500",
+            "isamount":false,
+            "year":2021
+        }
+    ],
+    "pieData":[
+        {
+            "name":"Dil Punjabi",
+            "value":300,
+            "year":2024
+        },
+        {
+            "name":"Bihari Bowl",
+             "value":400,
+             "year":2024
+        },
+        {
+            "name":"Khichdi Bar",
+     "value":200,
+     "year":2024
+        },
+        {
+            "name":"All Things Fried",
+     "value":300,
+     "year":2024
+        },
+        {
+            "name":"Chinease Kaka",
+     "value":200,
+     "year":2024
+        },
+        {
+            "name":"Bowled Over",
+     "value":150,
+     "year":2024
+        },
+        {
+            "name":"BAM",
+     "value":260,
+     "year":2024
+        },
+        {
+            "name":"Dil Punjabi",
+            "value":200,
+            "year":2023
+        },
+        {
+            "name":"Bihari Bowl",
+             "value":300,
+             "year":2023
+        },
+        {
+            "name":"Khichdi Bar",
+     "value":250,
+     "year":2023
+        },
+        {
+            "name":"All Things Fried",
+     "value":400,
+     "year":2023
+        },
+        {
+            "name":"Chinease Kaka",
+     "value":220,
+     "year":2023
+        },
+        {
+            "name":"Bowled Over",
+     "value":200,
+     "year":2023
+        },
+        {
+            "name":"BAM",
+     "value":210,
+     "year":2023
+        },
+        {
+            "name":"Dil Punjabi",
+            "value":320,
+            "year":2022
+        },
+        {
+            "name":"Bihari Bowl",
+             "value":300,
+             "year":2022
+        },
+        {
+            "name":"Khichdi Bar",
+     "value":150,
+     "year":2022
+        },
+        {
+            "name":"All Things Fried",
+     "value":200,
+     "year":2022
+        },
+        {
+            "name":"Chinease Kaka",
+     "value":400,
+     "year":2022
+        },
+        {
+            "name":"Bowled Over",
+     "value":150,
+     "year":2022
+        },
+        {
+            "name":"BAM",
+     "value":200,
+     "year":2022
+        },
+        
+        {
+            "name":"Dil Punjabi",
+            "value":400,
+            "year":2021
+        },
+        {
+            "name":"Bihari Bowl",
+             "value":300,
+             "year":2021
+        },
+        {
+            "name":"Khichdi Bar",
+     "value":100,
+     "year":2021
+        },
+        {
+            "name":"All Things Fried",
+     "value":200,
+     "year":2021
+        },
+        {
+            "name":"Chinease Kaka",
+     "value":500,
+     "year":2021
+        },
+        {
+            "name":"Bowled Over",
+     "value":350,
+     "year":2021
+        },
+        {
+            "name":"BAM",
+     "value":220,
+     "year":2021
+        }
+    ],
+    "lineData":[
+        {
+        "name":"January",
+        "value":1500,
+        "year":2024
+        },
+        {
+            "name":"Febuary",
+            "value":2400,
+            "year":2024
+        },
+        
+        {
+            "name":"March",
+            "value":1700,
+            "year":2024
+        }
+        ,
+        {
+            "name":"April",
+            "value":2000,
+            "year":2024
+        }
+        ,
+        {
+            "name":"May",
+            "value":2400,
+            "year":2024
+        },
+    
+        {
+            "name":"June",
+            "value":2700,
+            "year":2024
+        },
+        
+        {
+            "name":"July",
+            "value":2300,
+            "year":2024
+        },
+        {
+            "name":"August",
+            "value":1600,
+            "year":2024
+        },
+        {
+            "name":"September",
+            "value":1900,
+            "year":2024
+        },
+        {
+            "name":"October",
+            "value":2200,
+            "year":2024
+        },
+        {
+            "name":"November",
+            "value":2700,
+            "year":2024
+        },
+        {
+            "name":"December",
+            "value":3000,
+            "year":2024
+        },
+        
+        {
+            "name":"January",
+            "value":1400,
+            "year":2023
+            },
+            {
+                "name":"Febuary",
+                "value":1200,
+                "year":2023
+            },
+            
+            {
+                "name":"March",
+                "value":2700,
+                "year":2023
+            }
+            ,
+            {
+                "name":"April",
+                "value":2200,
+                "year":2023
+            }
+            ,
+            {
+                "name":"May",
+                "value":2900,
+                "year":2023
+            },
+        
+            {
+                "name":"June",
+                "value":2100,
+                "year":2023
+            },
+            
+            {
+                "name":"July",
+                "value":1900,
+                "year":2023
+            },
+            {
+                "name":"August",
+                "value":1800,
+                "year":2023
+            },
+            {
+                "name":"September",
+                "value":2000,
+                "year":2023
+            },
+            {
+                "name":"October",
+                "value":2500,
+                "year":2023
+            },
+            {
+                "name":"November",
+                "value":2700,
+                "year":2023
+            },
+            {
+                "name":"December",
+                "value":3000,
+                "year":2023
+            },
+            
+            {
+                "name":"January",
+                "value":2500,
+                "year":2022
+                },
+                {
+                    "name":"Febuary",
+                    "value":2200,
+                    "year":2022
+                },
+                
+                {
+                    "name":"March",
+                    "value":1700,
+                    "year":2022
+                }
+                ,
+                {
+                    "name":"April",
+                    "value":1400,
+                    "year":2022
+                }
+                ,
+                {
+                    "name":"May",
+                    "value":2600,
+                    "year":2022
+                },
+            
+                {
+                    "name":"June",
+                    "value":2400,
+                    "year":2022
+                },
+                
+                {
+                    "name":"July",
+                    "value":2900,
+                    "year":2022
+                },
+                {
+                    "name":"August",
+                    "value":2600,
+                    "year":2022
+                },
+                {
+                    "name":"September",
+                    "value":2100,
+                    "year":2022
+                },
+                {
+                    "name":"October",
+                    "value":1700,
+                    "year":2022
+                },
+                {
+                    "name":"November",
+                    "value":2400,
+                    "year":2022
+                },
+                {
+                    "name":"December",
+                    "value":2800,
+                    "year":2022
+                },
+                
+                {
+                    "name":"January",
+                    "value":1800,
+                    "year":2021
+                    },
+                    {
+                        "name":"Febuary",
+                        "value":2400,
+                        "year":2021
+                    },
+                    
+                    {
+                        "name":"March",
+                        "value":1900,
+                        "year":2021
+                    }
+                    ,
+                    {
+                        "name":"April",
+                        "value":2200,
+                        "year":2021
+                    }
+                    ,
+                    {
+                        "name":"May",
+                        "value":2100,
+                        "year":2021
+                    },
+                
+                    {
+                        "name":"June",
+                        "value":2700,
+                        "year":2021
+                    },
+                    
+                    {
+                        "name":"July",
+                        "value":2800,
+                        "year":2021
+                    },
+                    {
+                        "name":"August",
+                        "value":1900,
+                        "year":2021
+                    },
+                    {
+                        "name":"September",
+                        "value":2000,
+                        "year":2021
+                    },
+                    {
+                        "name":"October",
+                        "value":2100,
+                        "year":2021
+                    },
+                    {
+                        "name":"November",
+                        "value":2100,
+                        "year":2021
+                    },
+                    {
+                        "name":"December",
+                        "value":2700,
+                        "year":2021
+                    }
+            
+        
+    
+
+    ],
+    "barData":[
+        {
+            "name":"Monday",
+            "orders":400,
+            "year":2024
+        },
+        {
+            "name":"Tuesday",
+            "orders":350,
+            "year":2024
+        },
+        {
+            "name":"Wednesday",
+            "orders":500,
+            "year":2024
+        },
+        {
+            "name":"Thursday",
+            "orders":400,
+            "year":2024
+        },
+        {
+            "name":"Friday",
+            "orders":300,
+            "year":2024
+        },
+        {
+            "name":"Saturday",
+            "orders":450,
+            "year":2024
+        },{
+            "name":"Sunday",
+            "orders":600,
+            "year":2024
+        },
+        {
+            "name":"Monday",
+            "orders":300,
+            "year":2023
+        },
+        {
+            "name":"Tuesday",
+            "orders":250,
+            "year":2023
+        },
+        {
+            "name":"Wednesday",
+            "orders":400,
+            "year":2023
+        },
+        {
+            "name":"Thursday",
+            "orders":200,
+            "year":2023
+        },
+        {
+            "name":"Friday",
+            "orders":200,
+            "year":2023
+        },
+        {
+            "name":"Saturday",
+            "orders":350,
+            "year":2023
+        },{
+            "name":"Sunday",
+            "orders":400,
+            "year":2023
+        },
+        {
+            "name":"Monday",
+            "orders":300,
+            "year":2022
+        },
+        {
+            "name":"Tuesday",
+            "orders":250,
+            "year":2022
+        },
+        {
+            "name":"Wednesday",
+            "orders":300,
+            "year":2022
+        },
+        {
+            "name":"Thursday",
+            "orders":200,
+            "year":2022
+        },
+        {
+            "name":"Friday",
+            "orders":200,
+            "year":2022
+        },
+        {
+            "name":"Saturday",
+            "orders":350,
+            "year":2022
+        },{
+            "name":"Sunday",
+            "orders":400,
+            "year":2022
+        },
+        
+        {
+            "name":"Monday",
+            "orders":400,
+            "year":2021
+        },
+        {
+            "name":"Tuesday",
+            "orders":350,
+            "year":2021
+        },
+        {
+            "name":"Wednesday",
+            "orders":500,
+            "year":2021
+        },
+        {
+            "name":"Thursday",
+            "orders":400,
+            "year":2021
+        },
+        {
+            "name":"Friday",
+            "orders":300,
+            "year":2021
+        },
+        {
+            "name":"Saturday",
+            "orders":450,
+            "year":2021
+        },{
+            "name":"Sunday",
+            "orders":600,
+            "year":2021
+        }
+    ]
+}
